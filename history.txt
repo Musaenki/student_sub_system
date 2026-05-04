@@ -1,0 +1,125 @@
+ history
+    1  ssh-keygen -t ed25519 -C "malulekaonkarabetse38@gmail.com"
+    2  gh stutas
+    3  gh auth status
+    4  aad ssh
+    5  add ssh-key into github
+    6  git add
+    7  git add "ssh key"
+    8  ssh-keygen -t ed25519 -C "malulekaonkarabetse38@gmail.com"
+    9  git init
+   10  git commit -m "add ssh-key into git"
+   11  git add <file>
+   12  ssh-keygen -t ed25519 -C "malulekaonkarabetse38@gmail.com"
+   13  git
+   14  add ssh-key file
+   15  git aad
+   16  git --help
+   17  add file on gitbush
+   18  ssh-keygen -t ed25519 -C "malulekaonkarabetse38@gmail.com"
+   19  git init
+   20  git add /c
+   21  git add 'C
+   22  ssh-keygen -t ed25519 -C "malulekaonkarabetse38@gmail.com"
+   23  ED25519 256
+   24  SHA256
+   25  add ssh-keygen to github
+   26  'C:/users/0801220753082'
+   27  'C
+   28  git add 'C:/Users/0801220753082
+   29  'c
+   30  git add'C/Users/0801220753082/.ssh/id_ed25519
+   31  'C/User/0801220753082/.ssh/id_ed25519
+   32  github
+   33  git --help
+   34  git clone
+   35  git clone repo
+   36  cd ~
+   37  cd desktop
+   38  git clone
+   39  git clone --repo
+   40  ls
+   41  git repo clone
+   42  git --help
+   43  git repo clone
+   44  git html
+   45  git -- help
+   46  git --help
+   47  ssh-keygen -t ed25519 -C "malulekaonkarabetse38@gmail.com"
+   48  git push
+   49  git remote add ssh agent
+   50  ssh --help
+   51  cd ~
+   52  cd desktop
+   53  git add malulekaonkarabetse
+   54  touch index.html.scrip.js
+   55  git add
+   56  ls
+   57  touch index.css.html.scrip.js
+   58  git fetch
+   59  touch about.html
+   60  touch history.txt
+   61  git coomit -m "ssh-key"
+   62  git --help
+   63  pwd
+   64  mkdir
+   65  mkdir --help
+   66  mkdir -m
+   67  git push
+   68  update history.txt
+   69  chech stutas history.txt
+   70  check status history.txt
+   71  ssh-keygen -t ed25519 -C "malulekaonkarabetse38@gmail.com"
+   72  eval($ssh)
+   73  cd ssh .mmm
+   74  cd ssh.mm
+   75  ssh-keygen -t ed25519 -C "malulekaonkarabetse38@gmail.com"
+   76  cat ~/ .ssh/id_ed25519.pud
+   77  cd
+   78  ssh-keygen -t ed25519 -C "malulekaonkarabetse38@gmail.com"
+   79  cd .ssh
+   80  cat ~/ .ssh/id_ed25519.pud
+   81  cat ~/.ssh/id_ed25519.pud
+   82  cat ~/.ssh/id_ed25519.pud
+   83  cat
+   84  cat ~/.ssh/id_ed25519.pud
+   85  cat ~/.ssh/id_ed25519.pub
+   86  ssh -T git@github.com
+   87  git push origin main
+   88  cd
+   89  ssh-keygen -t ed25519 -C "malulekaonkarabetse38@gmail.com"
+   90  cat ~/.ssh/id_ed25519.pub
+   91  cd .ssh
+   92  ssh-keygen -t ed25519 -C "malulekaonkarabetse38@gmail.com"
+   93  cd ssh
+   94  ls -la
+   95  cd .ssh
+   96  cat ~/.ssh/id_ed25519.pub
+   97  ssh -T git@github.com
+   98  cd ssh.mm
+   99  cd Desktop
+  100  cd
+  101  cd Desktop
+  102  cd .ssh
+  103  cd .ssh
+  104  ssh-keygen -t ed25519 -C "malulekaonkarabetse38@gmail.com"
+  105  cd .ssh
+  106  ssh-keygen -t ed25519 -C "malulekaonkarabetse38@gmail.com"
+  107  ssh-keygen -t ed25519 -C "malulekaonkarabetse38@gmail.com"
+  108  cd .ssh
+  109  cat ~/.ssh/id_ed25519.pud
+  110  cat ~/.ssh/id_ed25519.pub
+  111  ssh -T git@github.com
+  112  cd
+  113  cd desktop
+  114  git clone git@github.com:Musaenki/student_sub_system.git
+  115  cd student_sub_system
+  116  code .
+  117  touch index.html
+  118  touch about.html
+  119  touch history.txt
+  120  git add .
+  121  git commit -m "ghgffgh"
+  122  git add .
+  123  git commit -m "ghgffgh"
+  124  history
